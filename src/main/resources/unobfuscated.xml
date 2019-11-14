@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <employee>
+        <firstName>Lokesh</firstName>
+        <lastName>Gupta</lastName>
+        <location>India</location>
+    </employee>
+    <employee>
+        <firstName>Alex</firstName>
+        <lastName>Gussin</lastName>
+        <location>Russia</location>
+    </employee>
+    <employee>
+        <firstName>David</firstName>
+        <lastName>Feezor</lastName>
+        <location>USA</location>
+    </employee>
+</employees>
